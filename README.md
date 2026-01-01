@@ -3,8 +3,6 @@
 ## Overview
 This project delivers two interactive Tableau dashboards—**Sales Performance** and **Customer Insights**—designed to help business stakeholders analyze year-over-year performance, identify trends, and understand customer behavior.
 
-The project simulates a real-world analytics engagement, covering the full lifecycle from business requirements and KPI definition to dashboard design and implementation.
-
 ---
 
 ## Business Objective
