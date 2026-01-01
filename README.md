@@ -116,11 +116,24 @@ Both dashboards were designed with executive usability and clarity in mind.
 
 ## Repository Structure
 ```text
-├── dashboards/        # Tableau workbooks
-├── images/            # Dashboard screenshots
-├── docs/              # Project requirements & documentation
-├── metrics/           # KPI definitions
-└── mockups/           # Dashboard wireframes
+├── dashboards/
+│   └── sales_customers_dashboards.twbx   # Final Tableau dashboards
+│
+├── data/
+│   └── data/                             # Sample / prepared data files
+│
+├── docs/
+│   └── project_requirements.md           # User stories & dashboard requirements
+│
+├── images/
+│   ├── sales_dashboard.png               # Sales dashboard preview
+│   └── customer_dashboard.png            # Customer dashboard preview
+│
+├── mockups/
+│   └── dashboard_mockups.png              # Dashboard wireframes
+│
+├── LICENSE
+└── README.md
 ```
 
 ---
