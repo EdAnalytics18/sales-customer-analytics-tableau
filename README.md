@@ -92,10 +92,7 @@ Both dashboards were designed with executive usability and clarity in mind.
 ## Data & Metrics
 - Data grain: Daily
 - Comparison logic: Current Year vs Previous Year
-- Metrics are defined consistently across dashboards to ensure accuracy and trust
-
-📄 Metric definitions are documented in:
-- [Metric Definitions](metrics/metric_definitions.md)
+- Metrics are defined consistently across dashboards to ensure accuracy and consistency
 
 ---
 
