@@ -96,7 +96,7 @@ Both dashboards were designed with executive usability and clarity in mind.
 
 ---
 
-## Key Insights (Sample)
+## Key Insights
 - Sales increased year-over-year, driven primarily by growth in high-volume product subcategories.
 - A relatively small group of repeat customers generated a disproportionate share of total profit.
 - Weekly sales and profit variability highlights opportunities for improved promotion timing and inventory planning.
