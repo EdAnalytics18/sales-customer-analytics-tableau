@@ -33,7 +33,7 @@ Enable executives, sales managers, and marketing teams to:
 ---
 
 ## Project Scope & Requirements
-The dashboards were developed based on a clearly defined user story and functional requirements to mirror how analytics solutions are scoped in real business environments.
+The dashboards were developed based on a clearly defined user story and functional requirements.
 
 📄 Full documentation:
 - [Project Requirements & User Stories](docs/project_requirements.md)
