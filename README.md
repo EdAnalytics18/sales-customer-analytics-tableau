@@ -1,4 +1,22 @@
-# Sales & Customer Analytics Dashboards (Tableau)
+# Sales & Customer Analytics Dashboards
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Business Objective](#business-objective)
+- [Project Scope & Requirements](#project-scope--requirements)
+- [Dashboards Included](#dashboards-included)
+  - [Sales Dashboard](#-sales-dashboard)
+  - [Customer Dashboard](#-customer-dashboard)
+- [Design & Interactivity](#design--interactivity)
+- [Data & Metrics](#data--metrics)
+- [Key Insights](#key-insights)
+- [Tools & Stack](#tools--stack)
+- [Repository Structure](#repository-structure)
+
+---
 
 ## Overview
 This project delivers two interactive Tableau dashboards—**Sales Performance** and **Customer Insights**—designed to help business stakeholders analyze year-over-year performance, identify trends, and understand customer behavior.
@@ -24,7 +42,7 @@ The dashboards were developed based on a clearly defined user story and function
 
 ## Dashboards Included
 
-### 📊 Sales Dashboard
+### Sales Dashboard
 **Purpose:**  
 Provide a high-level overview of sales performance and trends to support strategic and operational decision-making.
 
@@ -37,16 +55,16 @@ Provide a high-level overview of sales performance and trends to support strateg
 - Monthly trends for sales, profit, and quantity (Current Year vs Previous Year)
 - Clear identification of highest and lowest performing months
 - Sales and profit comparison by product subcategory
-- Weekly sales and profit analysis:
+- Weekly sales and profit analysis to identify short-term volatility:
   - Average weekly benchmarks
   - Highlighted weeks above and below average
 
-📸 **Preview:**  
+ **Preview:**  
 ![Sales Dashboard](images/sales_dashboard.png)
 
 ---
 
-### 👥 Customer Dashboard
+### Customer Dashboard
 **Purpose:**  
 Provide insights into customer behavior, value, and engagement to support marketing strategy and customer retention initiatives.
 
@@ -65,7 +83,7 @@ Provide insights into customer behavior, value, and engagement to support market
   - Profit
   - Last order date
 
-📸 **Preview:**  
+ **Preview:**  
 ![Customer Dashboard](images/customer_dashboard.png)
 
 ---
@@ -88,8 +106,8 @@ Both dashboards were designed with executive usability and clarity in mind.
 ---
 
 ## Data & Metrics
-- Data grain: Daily
-- Comparison logic: Current Year vs Previous Year
+- Data grain: Daily (aggregated to weekly and monthly levels for analysis)
+- Comparison logic: Current Year vs Previous Year (aligned by calendar period)
 - Metrics are defined consistently across dashboards to ensure accuracy and consistency
 
 ---
@@ -105,7 +123,7 @@ Both dashboards were designed with executive usability and clarity in mind.
 - **BI Tool:** Tableau
 - **Data Preparation:** SQL
 - **Data Model:** Analytics-ready fact and dimension tables
-- **Documentation:** GitHub Markdown
+- **Documentation:** GitHub
 
 ---
 
